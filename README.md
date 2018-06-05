@@ -23,3 +23,29 @@ DBCLSのRAとしてアルバイトすることと生命科学に興味のある�
 までメールにてお問い合わせください。
 ### 主催
 大学共同利用機関法人 情報・システム研究機構(ROIS) ライフサイエンス統合データベースセンター(DBCLS)
+
+<h3 id="content_1_1">内容  </h3>
+<ul class="list1" style="padding-left:16px;margin-left:16px"><li>13:00 ～
+<ul class="list2" style="padding-left:16px;margin-left:16px"><li>はじめに・統合牧場とは
+<ul class="list3" style="padding-left:16px;margin-left:16px"><li><a href="http://twitter.com/iNut" rel="nofollow">inutano</a></li></ul></li>
+<li>誰もがアクセスできる質の高いコンテンツを作る・統合TV制作班
+<ul class="list3" style="padding-left:16px;margin-left:16px"><li><a href="http://twitter.com/Go_with_twill" rel="nofollow">Go_with_twill</a></li>
+<li><a href="http://twitter.com/TRYalFarm" rel="nofollow">TRYalFarm</a></li>
+<li><a href="http://twitter.com/poconim" rel="nofollow">poconim</a></li>
+<li><a href="http://twitter.com/E_in_the_field" rel="nofollow">E_in_the_field</a></li></ul></li></ul></li>
+<li>14:00 ～
+<ul class="list2" style="padding-left:16px;margin-left:16px"><li>誰もがアクセスできる質の高いコンテンツを作る・美術制作班
+<ul class="list3" style="padding-left:16px;margin-left:16px"><li><a href="http://twitter.com/riv7" rel="nofollow">riv7</a></li></ul></li>
+<li>日々の生活が豊かになる便利なツールを作る・技術開発班
+<ul class="list3" style="padding-left:16px;margin-left:16px"><li><a href="http://twitter.com/Taizo_Ayase" rel="nofollow">Taizo_Ayase</a></li>
+<li><a href="http://twitter.com/ahneahneahne" rel="nofollow">ahneahneahne</a></li></ul></li></ul></li>
+<li>15:00 ～
+<ul class="list2" style="padding-left:16px;margin-left:16px"><li>ウェブの技術でコンテンツを有効利用する・技術開発班
+<ul class="list3" style="padding-left:16px;margin-left:16px"><li><a href="http://twitter.com/ono_e" rel="nofollow">ono_e</a></li>
+<li><a href="http://twitter.com/tabris2012" rel="nofollow">tabris2012</a></li>
+<li><a href="http://twitter.com/gackelNL" rel="nofollow">gackelNL</a></li></ul></li></ul></li>
+<li>16:30 ～
+<ul class="list2" style="padding-left:16px;margin-left:16px"><li>ゲスト・トーク ～ 牧場春のプレゼン祭り
+<ul class="list3" style="padding-left:16px;margin-left:16px"><li><a href="http://twitter.com/dritoshi" rel="nofollow">dritoshi</a> &quot;The Origin of Farm&quot;</li></ul></li></ul></li>
+<li>18:00 ～
+<ul class="list2" style="padding-left:16px;margin-left:16px"><li>夜の部・参加者持ち寄りによる懇親会</li></ul></li></ul>
